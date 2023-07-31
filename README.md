@@ -1,4 +1,8 @@
-#전통주 사이트 <주랑주랑>
+# 전통주 사이트 <주랑주랑>
+![image](https://github.com/k-seona/Shopping-Mall/assets/128606481/0999fd41-b0e7-4924-ba3b-766ddedf1aa7)
+
+![Uploading image.png…]()
+
 
 # Git 커밋 메시지 작성 규칙
 
