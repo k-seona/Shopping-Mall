@@ -1,7 +1,7 @@
 # 전통주 사이트 <주랑주랑>
-![image](https://github.com/k-seona/Shopping-Mall/assets/128606481/0999fd41-b0e7-4924-ba3b-766ddedf1aa7)
-
-![Uploading image.png…]()
+![메인](https://github.com/k-seona/Shopping-Mall/assets/128606481/258e094b-8b9c-4a54-b2f7-ad96db5d329b)
+![상품리스트](https://github.com/k-seona/Shopping-Mall/assets/128606481/59a17fce-ebc2-41c0-94e5-7ff431945eca)
+![장바구니](https://github.com/k-seona/Shopping-Mall/assets/128606481/9cc65315-0e13-4828-9dd6-cc112ebd09af)
 
 
 # Git 커밋 메시지 작성 규칙
